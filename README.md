@@ -1,2 +1,2 @@
-# Ho-geldin
+# HOŞGELDİNİZ
 Örnek kod
