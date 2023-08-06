@@ -1,2 +1,0 @@
-# HOŞGELDİNİZ
-Örnek kod
